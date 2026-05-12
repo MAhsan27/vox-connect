@@ -17,4 +17,4 @@ on deadline for a real client.
 - Ant Design
 
 ## Live Demo
-[View Live](YOUR_NETLIFY_LINK)
+[View Live] https://www.voxconnect.co.uk/
